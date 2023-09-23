@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app login</string>
+    <string name="username">username</string>
+    <string name="password_toggled">password_toggled</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="todo">TODO</string>
+    <string name="done">TODO</string>
+    <string name="does">TODO</string>
+</resources>
